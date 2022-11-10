@@ -17,7 +17,23 @@
     border-radius: 10px;
     font-size: 30px;
   }
+
+  input{
+    border: none;
+    /* text-decoration: none; */
+    text-align: center;
+    color: tomato;
+    border-radius: 10px;
+  }
   
+  .loginbtn{
+    background-color: springgreen;
+    color: rgb(46, 29, 175);
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
   
   
   

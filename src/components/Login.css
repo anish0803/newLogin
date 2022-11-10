@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+  
+  .App {
+    text-align: center;
+    height: 200px;
+    width: 300px;
+    background-color: violet;
+    margin: 200px auto;
+    border-radius: 10px;
+    font-size: 30px;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
